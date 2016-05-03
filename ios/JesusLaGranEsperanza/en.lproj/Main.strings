@@ -1,0 +1,24 @@
+
+/* Class = "IBUIButton"; normalTitle = "Datos"; ObjectID = "ED7-nx-7vN"; */
+"ED7-nx-7vN.normalTitle" = "Datos";
+
+/* Class = "IBUINavigationItem"; title = "Title"; ObjectID = "IGr-Zg-xUr"; */
+"IGr-Zg-xUr.title" = "Title";
+
+/* Class = "IBUILabel"; text = "Nombre:"; ObjectID = "L3L-L3-vES"; */
+"L3L-L3-vES.text" = "Nombre:";
+
+/* Class = "IBUILabel"; text = "Correo"; ObjectID = "TcR-D8-oND"; */
+"TcR-D8-oND.text" = "Correo";
+
+/* Class = "IBUIButton"; normalTitle = "Estudio Biblico"; ObjectID = "Y8U-MJ-CnD"; */
+"Y8U-MJ-CnD.normalTitle" = "Estudio Biblico";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "crn-h8-SxI"; */
+"crn-h8-SxI.text" = "Label";
+
+/* Class = "IBUIBarButtonItem"; title = "Guardar"; ObjectID = "f02-XH-U7p"; */
+"f02-XH-U7p.title" = "Guardar";
+
+/* Class = "IBUIViewController"; title = "Datos"; ObjectID = "fXf-KA-RpB"; */
+"fXf-KA-RpB.title" = "Datos";
